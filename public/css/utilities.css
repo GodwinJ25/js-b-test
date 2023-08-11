@@ -1,0 +1,12 @@
+.date-single-input{
+    width: 2.2rem;
+    padding: 0.2rem;
+}
+.input-year{
+    width: 4rem;
+}
+textarea{
+    border-width: 2px !important;
+    border-style: inset !important;
+    border-color: -internal-light-dark(rgb(118, 118, 118), rgb(133, 133, 133)) !important;
+}
